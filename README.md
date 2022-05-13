@@ -52,7 +52,7 @@
 | `receivePort`| 接收方端口 | `int32` |
 
 ###  与其它节点通信类 `ConnectionBase`
-|`TransactionBaseData`| 描述 | 字段类型|  可选值 |
+|`ConnectionBase`| 描述 | 字段类型|  可选值 |
 |:----:  | :----:  |:----:|:----:|
 |`host` | 远机地址 | `string ` |
 |`port` | 远机端口 | `string` |
